@@ -1,7 +1,7 @@
 '''
 classesproject.py
 
-Written by Tyler Hynes, Coltan Rozander, and Evan Synnott-Hilliard
+Written by Tyler Hynes
 
 This Program trys to do things
 
