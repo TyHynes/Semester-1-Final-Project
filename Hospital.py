@@ -1,5 +1,5 @@
 '''
-classesproject.py
+Hospital.py
 
 Written by Tyler Hynes
 
